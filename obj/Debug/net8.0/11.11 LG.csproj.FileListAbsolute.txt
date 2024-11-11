@@ -1,0 +1,14 @@
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\bin\Debug\net8.0\11.11 LG.exe
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\bin\Debug\net8.0\11.11 LG.deps.json
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\bin\Debug\net8.0\11.11 LG.runtimeconfig.json
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\bin\Debug\net8.0\11.11 LG.dll
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\bin\Debug\net8.0\11.11 LG.pdb
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\11.11 LG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\11.11 LG.AssemblyInfoInputs.cache
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\11.11 LG.AssemblyInfo.cs
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\11.11 LG.csproj.CoreCompileInputs.cache
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\11.11 LG.dll
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\refint\11.11 LG.dll
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\11.11 LG.pdb
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\11.11 LG.genruntimeconfig.cache
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\ref\11.11 LG.dll
