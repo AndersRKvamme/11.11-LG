@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+Book martian = new Book("Martian", "Jane Doe", new DateTime(2004, 10, 10));
+
