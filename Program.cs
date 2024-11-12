@@ -1,16 +1,18 @@
-﻿
-
-Book martian = new Book("Martian", "Jane Doe", new DateTime(2004, 10, 10));
-
-Console.WriteLine("Book Title: " + martian.Title);
-Console.WriteLine("Author: " + martian.Author);
-Console.WriteLine("Book first publushed: " + martian.FirstPublished);
+﻿Console.WriteLine("Please enter something!");
+string userInput = Console.ReadLine();
 
 
-Library library = new Library();
-
-Book? book1 = library.LendBook ("Martian");
-Console.WriteLine("Lending book:" + book1?.Title);
-
-Book? book2 = library.LendBook ("Gang of Four");
-Console.WriteLine("Lending book:" + book2?.Title);
+switch (userInput){
+    case "a":
+    {
+        Console.WriteLine("Running command A");
+        break;
+    }
+    case "b":{
+        Console.WriteLine("Running command B");
+    }
+    default:{
+        Console.WriteLine("Not recognised");
+        break;
+    }
+}
