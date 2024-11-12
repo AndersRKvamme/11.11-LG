@@ -9,8 +9,10 @@ class Book {
         public DateTime FirstPublished;
 
     //  Constructor for the Class, decides how to construct a valid object
-    public Book (string Title, string Author, DateTime FirstPublished)
+    public Book (string title, string author, DateTime firstPublished)
     {
-        
+        Author = author;
+        Title = title;
+        FirstPublished = firstPublished;
     } 
 }

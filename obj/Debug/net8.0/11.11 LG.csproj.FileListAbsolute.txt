@@ -12,3 +12,4 @@ C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\refin
 C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\11.11 LG.pdb
 C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\11.11 LG.genruntimeconfig.cache
 C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\ref\11.11 LG.dll
+C:\Users\rka09\Documents\Programmering\FullStack\11.11 LG\obj\Debug\net8.0\11.11 LG.sourcelink.json
